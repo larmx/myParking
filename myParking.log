@@ -1,0 +1,18 @@
+2017-05-15 21:48:55 ERROR Main:52 - Invalid number of parking places entered.
+java.lang.NumberFormatException: For input string: "reig"
+	at java.lang.NumberFormatException.forInputString(NumberFormatException.java:65)
+	at java.lang.Integer.parseInt(Integer.java:580)
+	at java.lang.Integer.parseInt(Integer.java:615)
+	at com.easyparking.myParking.main.Main.main(Main.java:48)
+2017-05-15 21:49:47 ERROR Main:52 - Invalid number of parking places entered.
+java.lang.NumberFormatException: For input string: "zfnoi"
+	at java.lang.NumberFormatException.forInputString(NumberFormatException.java:65)
+	at java.lang.Integer.parseInt(Integer.java:580)
+	at java.lang.Integer.parseInt(Integer.java:615)
+	at com.easyparking.myParking.main.Main.main(Main.java:48)
+2017-05-15 21:51:10 ERROR Main:52 - Invalid number of parking places entered.
+java.lang.NumberFormatException: For input string: "helzf"
+	at java.lang.NumberFormatException.forInputString(NumberFormatException.java:65)
+	at java.lang.Integer.parseInt(Integer.java:580)
+	at java.lang.Integer.parseInt(Integer.java:615)
+	at com.easyparking.myParking.main.Main.main(Main.java:48)
