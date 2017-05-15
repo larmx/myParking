@@ -5,6 +5,7 @@ import java.util.HashSet;
 import java.util.Scanner;
 import java.util.Set;
 
+import org.apache.log4j.BasicConfigurator;
 import org.apache.log4j.Logger;
 
 import com.easyparking.myParking.commands.*;
@@ -35,7 +36,7 @@ public class Main {
 	}
 
 	public static void main(String[] args) {
-		
+		BasicConfigurator.configure();
 		Main mainobject = new Main ();
 		Scanner sc = new Scanner(System.in);
 		
@@ -72,6 +73,6 @@ public class Main {
 				System.out.println(result);
 			}
 		} while(sc.hasNextLine());
-		
+		sc.close();
 	}
 }
