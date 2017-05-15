@@ -1,6 +1,4 @@
-<snippet>
-  <content><![CDATA[
-# ${1:MyParking}
+# MyParking
 This application is a very simple car parking managing system.
 ## Installation
 In the project folder, you can launch the app by using java -jar myParking.jar
@@ -13,9 +11,6 @@ After setting the number of places in your parking, you can add or remove cars f
 4. Push to the branch: `git push origin my-new-feature`
 5. Submit a pull request :D
 ## Credits
-Larms
+Larmx
 ## License
 License MIT
-]]></content>
-  <tabTrigger>readme</tabTrigger>
-</snippet>
