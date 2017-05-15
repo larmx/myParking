@@ -3,7 +3,7 @@ This application is a very simple car parking managing system.
 ## Installation
 In the project folder, you can launch the app by using java -jar myParking.jar
 ## Usage
-After setting the number of places in your parking, you can add or remove cars from it!
+After setting the number of places in your parking, you can add or remove vehicules from it!
 ## Contributing
 1. Fork it!
 2. Create your feature branch: `git checkout -b my-new-feature`
